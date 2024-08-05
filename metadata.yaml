@@ -1,0 +1,41 @@
+_repo: Suomen-historiallisia-kertomuksia-2-b-Uskonpuhdistuksesta-Uudenkaupungin-rauhaan_73934
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Korhonen, Veikko
+    alias: Korhonen, Veikko Matias
+    birthdate: 1888
+    deathdate: 1942
+    gutenberg_agent_id: '56035'
+    url: http://www.gutenberg.org/2009/agents/56035
+    wikipedia: https://fi.wikipedia.org/wiki/Veikko_Korhonen
+description: ''
+gutenberg_issued: '2024-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73934'
+language: fi
+pgterms:marc905: 20230623235721korhonen
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOsakeyhtiö Valistus, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Taipumaton -- Hannu Krankka -- Vaikealla tiellä -- Petetty talonpoikaispäällikkö
+  -- Nuijan jälkiä -- Aapelusta oppimassa -- Rauhan vieras -- Kuninkaan koulu -- Pitäjiä
+  käymässä -- Kevätjuhla -- Suuren työn päätyttyä -- Kirkon rangaistus -- Piispan
+  käräjät -- Suomen leijonat -- Ruotuvääpelin miekka -- Kansan suosima ylimys -- Riitaisilla
+  vesillä -- Viidensadan retki -- Nälkävuoden joulu -- Sotaisa kuningas -- Muuan jouluyö
+  -- Kotiinpaluu -- Napuan sankarit -- Pohjan tuntureilla -- Tyhjä luentosali -- Piilopirtillä
+  -- Kodin raunioilla -- Salonkävijä.
+title: 'Suomen historiallisia kertomuksia 2 : $b Uskonpuhdistuksesta Uudenkaupungin
+  rauhaan'
+url: http://www.gutenberg.org/ebooks/73934
